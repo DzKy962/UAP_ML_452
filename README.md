@@ -3,9 +3,9 @@
 Ahmad Alif Dzaky Fadhilla
 NIM : 202110370311452
 ## Link to Dataset
-https://drive.google.com/file/d/1HhWLZYjQyvDvXBg2RldXVsGEccnRm69v/view?usp=sharing
+[Click Me](https://drive.google.com/file/d/1HhWLZYjQyvDvXBg2RldXVsGEccnRm69v/view?usp=sharing)
 ## Link to Model
-https://drive.google.com/file/d/1HDUu1IAkLZ7YW0x1ose-3rY7TK09iis5/view?usp=drive_link
+[Click Me](https://drive.google.com/file/d/1HDUu1IAkLZ7YW0x1ose-3rY7TK09iis5/view?usp=drive_link)
 ## Setup Inveronment
 Menggunakan 3.11 Python environment untuk menghindari Error pada Tensorflow dan Streamlit
 ## Windows Pwershell/VSCode Powershell
