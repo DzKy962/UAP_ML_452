@@ -25,4 +25,9 @@ PIP install Streamlit
 Streamlit run app.py
 ```
 # KLASIFIKASI KENDARAAN JALAN RAYA
-Kendaraan telah menjadi bagian penting dalam kehidupan modern, baik sebagai sarana transportasi maupun objek untuk penelitian di bidang rekayasa kendaraan, transportasi cerdas, dan keamanan. Seiring dengan perkembangan teknologi, kebutuhan untuk mengenali jenis-jenis kendaraan dengan akurat telah meningkat pesat dalam berbagai aplikasi, mulai dari pemantauan lalu lintas, manajemen logistik, hingga sistem keamanan publik. Hal ini akan sangat membantu dalam berbagai hal khususnya dalam system kemanan pada lalu lintas dan dapat menghindari adanya gangguan lalu lintas yang dapat berpotensi menimbulkan kemacetan. Salah satu usaha untuk mengurangi masalah kemacetan yaitu dengan menetapkan jalur-jalur khusus yang hanya boleh dilalui kendaraan roda dua, empat atau lebih
+Proyek ini bertujuan untuk mengembangkan sebuah sistem klasifikasi gambar yang dapat mengenali dan membedakan kategori gambar kendaraan, seperti "Big Truck," "City Car," "Multi Purpose Vehicle," "Sedan," "Sport Utility Vehicle," "Truck," dan "Van." Sistem ini dirancang untuk mendukung implementasi aplikasi yang memerlukan kemampuan identifikasi jenis kendaraan berdasarkan gambar, seperti sistem pengelompokan kendaraan untuk manajemen transportasi, survei data otomotif, atau aplikasi berbasis pembelajaran mesin di bidang otomotif.
+
+Model yang digunakan dalam proyek ini adalah Convolutional Neural Network (CNN) dengan 3 lapisan utama untuk klasifikasi gambar kendaraan. 
+
+CNN Architecture 
+![41Q35ZMU](https://github.com/user-attachments/assets/a2f382af-a9d0-4588-8465-f187015f434c)
