@@ -29,5 +29,8 @@ Proyek ini bertujuan untuk mengembangkan sebuah sistem klasifikasi gambar yang d
 
 Model yang digunakan dalam proyek ini adalah Convolutional Neural Network (CNN) dengan 3 lapisan utama untuk klasifikasi gambar kendaraan. 
 
-CNN Architecture 
+### CNN Architecture 
 ![41Q35ZMU](https://github.com/user-attachments/assets/a2f382af-a9d0-4588-8465-f187015f434c)
+
+### Dataset
+Dataset terdiri atas 15,645 data yang terbagi menjadi 7 Kelas yaitu _'Big Truck', 'City Car', Sedan', 'Multi Purpose Vehicle', 'Sport Utility Car', 'Truck', 'Van'_.
